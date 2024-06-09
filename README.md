@@ -1,9 +1,9 @@
 # Netflix_Movies_And_TV_Shows_Clustering_Unsupervised_ML
-# Introduction:
+### Introduction:
 
 With more than 83 million subscribers and presence in more than 190 countries, Netflix is the most popular Internet television network in the world. Its users watch more than 125 million hours of TV and movie content daily, including original series, documentaries, and feature films. On almost any screen that is linked to the Internet, members can watch as much as they want, whenever and wherever. Without interruptions or obligations, members can play, pause, and resume watching at any time.
 
-# Problem statement:
+### Problem statement:
 
 Netflix has a huge selection of films and TV series, making it one of the biggest streaming services globally. It might be difficult for people to locate content that suits their interests, though, because there are so many possibilities available.
 
@@ -13,7 +13,7 @@ This project will specifically analyze a dataset of Netflix titles, which will i
 
 The project's ultimate goal is to develop a clustering model that can precisely classify Netflix titles according to their attributes. After that, this approach can be applied to help Netflix enhance its content discovery algorithms or provide suggestions to users.
 
-# Overview:
+### Overview:
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
 
@@ -28,7 +28,7 @@ Next, using a variety of factors, I have prepared the dataset for cluster creati
 Later, I developed a recommender system using cosine similarity and suggested the top ten movies using the silhouette and k-means elbow methods to determine the ideal number of clusters.
 
 
-# Conclusion:
+### Conclusion:
 
 CONCLUSION FROM EDA:
 
